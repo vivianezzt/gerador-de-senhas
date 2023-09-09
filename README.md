@@ -4,7 +4,10 @@ Feito pelo tutorial do canal  <a href="https://www.youtube.com/watch?v=i6t2jaRxo
 
 <img src="https://raw.githubusercontent.com/vivianezzt/gerador-de-senhas/main/img/gerador.png">
 
+# Confira aqui 👉 <a href="https://viviane-gerador-de-senhas.vercel.app/">Gerador de Senhas 🔑 🔑 🔑 </a>
+  
 ## Feito com as tecnologias:
+
 <div style="display: inline_block">
   <img height="35rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img height="35rem" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
